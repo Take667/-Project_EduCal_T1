@@ -1,6 +1,6 @@
 # 202420_CIS285
-Chaney Tyas
 Carstarphen Shamar
+Chaney Tyas
 Haines Coleman
 Jeane Andrew
 Knight Tony
